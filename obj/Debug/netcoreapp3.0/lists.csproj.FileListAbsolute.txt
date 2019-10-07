@@ -1,0 +1,11 @@
+/Users/maggie/workspace/csharp/exercises/lists/bin/Debug/netcoreapp3.0/lists
+/Users/maggie/workspace/csharp/exercises/lists/bin/Debug/netcoreapp3.0/lists.deps.json
+/Users/maggie/workspace/csharp/exercises/lists/bin/Debug/netcoreapp3.0/lists.runtimeconfig.json
+/Users/maggie/workspace/csharp/exercises/lists/bin/Debug/netcoreapp3.0/lists.runtimeconfig.dev.json
+/Users/maggie/workspace/csharp/exercises/lists/bin/Debug/netcoreapp3.0/lists.dll
+/Users/maggie/workspace/csharp/exercises/lists/bin/Debug/netcoreapp3.0/lists.pdb
+/Users/maggie/workspace/csharp/exercises/lists/obj/Debug/netcoreapp3.0/lists.csprojAssemblyReference.cache
+/Users/maggie/workspace/csharp/exercises/lists/obj/Debug/netcoreapp3.0/lists.AssemblyInfoInputs.cache
+/Users/maggie/workspace/csharp/exercises/lists/obj/Debug/netcoreapp3.0/lists.AssemblyInfo.cs
+/Users/maggie/workspace/csharp/exercises/lists/obj/Debug/netcoreapp3.0/lists.dll
+/Users/maggie/workspace/csharp/exercises/lists/obj/Debug/netcoreapp3.0/lists.pdb
